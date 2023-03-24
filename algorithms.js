@@ -34,3 +34,42 @@
   // return min + max
 // }
 // console.log(sumOfMinAndMax([3,5,7,2,41,8]))
+
+
+
+
+
+
+
+
+
+
+
+// RETURN THE SUM OF THE 2 FIRST MIN OF AN ARRAY
+// function sumOf2Min(arr) {
+//   let firstMin = arr[0]
+//   for (let item of arr){
+//     if (item < firstMin){
+//       firstMin = item
+//     }
+//   }
+//   let arrWithoutFirstMin = arr.filter(i => i !== firstMin)
+//   let secondMin = arrWithoutFirstMin[0]
+//   for (let item of arrWithoutFirstMin){
+//     if (item < secondMin){
+//       secondMin = item
+//     }
+//   }
+//   return firstMin + secondMin
+// }
+// ANOTHER WAY TO SOLVE IT 
+//   let orderedArr = arr.sort((a, b) => a-b)
+//   let res = []
+//   orderedArr.forEach((item) => {
+//     if (!res.includes(item)){
+//       res.push(item)
+//     }
+//   })
+//   return res[0] + res[1]
+// }
+// console.log(sumOf2Min([4,12,6,9,78,4,21]));
