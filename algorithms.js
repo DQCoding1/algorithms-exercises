@@ -73,3 +73,34 @@
 //   return res[0] + res[1]
 // }
 // console.log(sumOf2Min([4,12,6,9,78,4,21]));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// FIND HOW MANY TIMES A VEHICLE IS REPEATED 
+// const vehicles = ["mazda", "toyota", "audi", "mazda", "ford", "audi", "mazda"]
+
+// function findRepetitions(arr){
+//   let result = {}
+//   for (let item of vehicles){
+//     if (result[item]){
+//       result[item] = result[item] + 1
+//     } else {
+//       result[item] = 1
+//     }
+//   }
+//   return result
+// }
+
+// console.log(findRepetitions(vehicles))
