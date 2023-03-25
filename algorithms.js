@@ -104,3 +104,29 @@
 // }
 
 // console.log(findRepetitions(vehicles))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// FIND THE LONGEST WORD OF A TEXT 
+// function findLongestWord(text){
+//   let res = ""
+//   const textToArr = text.split(" ")
+//   textToArr.forEach((item) => {
+//     if (item.length > res.length){
+//       res = item
+//     }
+//   })
+//   return res
+// }
+// console.log(findLongestWord("what's the longest word here ?"));
