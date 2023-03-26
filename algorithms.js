@@ -118,7 +118,7 @@
 
 
 
-// FIND THE LONGEST WORD OF A TEXT 
+// FIND THE LONGEST WORD IN A TEXT 
 // function findLongestWord(text){
 //   let res = ""
 //   const textToArr = text.split(" ")
@@ -130,3 +130,37 @@
 //   return res
 // }
 // console.log(findLongestWord("what's the longest word here ?"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// SORT AN ARRAY WITHOUT USING ANY METHOD 
+// function sortArray(arr) {
+//   let res = arr.map(num => num)
+
+//   for (let i = 0; i < res.length; i++){
+//     for (let j = i+1; j < res.length; j++){
+//       if (res[j] < res[i]){
+//         let firstIter = res[i]
+//         let secondIter = res[j]
+//         res[i] = secondIter
+//         res[j] = firstIter
+//       }
+//     }
+//   }
+
+//   return res
+// }
+// console.log(sortArray([22,5,1,5,7,3,9]));
