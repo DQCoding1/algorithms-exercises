@@ -164,3 +164,32 @@
 //   return res
 // }
 // console.log(sortArray([22,5,1,5,7,3,9]));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// COUNT HOW MANY CHARACTERS EXIST IN AN ARRAY WITHOUT SPACES
+// function countCharactersWithoutSpaces (text){
+//   let counter = 0
+
+//   for (let i = 0; i < text.length; i++){
+//     if (text[i] !== " ") counter ++
+//   }
+
+//    return counter
+// }
+
+// console.log(countCharactersWithoutSpaces("how many characters"));
