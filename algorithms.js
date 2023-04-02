@@ -193,3 +193,28 @@
 // }
 
 // console.log(countCharactersWithoutSpaces("how many characters"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// RETURN THE AMOUNT OF CHARACTERS SPECIFIED OF A STRING 
+// function rangeOfString (text, num){
+//   const res = text.substring(0, num+1)
+//   return res
+// }
+
+// console.log(rangeOfString("this is a text", 8))
