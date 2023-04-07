@@ -218,3 +218,39 @@
 // }
 
 // console.log(rangeOfString("this is a text", 8))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//TRANSFORM A STRING TO AN ARRAY WITHOUT USING ANY METHOD
+// function transformToArray(text){
+//   let res = []
+//   let indexOfRes = 0 
+
+//   for (let item of text){
+//     if (item !== " "){
+//       res[indexOfRes] === undefined 
+//         ? res[indexOfRes] = item
+//         : res[indexOfRes] = res[indexOfRes] + item 
+//     } else {
+//       indexOfRes++
+//     }
+//   }
+
+//   return res
+// }
+
+// console.log(transformToArray("this is a text"));
