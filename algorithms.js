@@ -254,3 +254,32 @@
 // }
 
 // console.log(transformToArray("this is a text"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// GIVEN A STRING RETURN THE SAME STRING x AMOUNT OF TIMES 
+// function repeatString(text, times){
+//   let res = ""
+
+//   for (let i = 0; i < times; i++){
+//     res = res + text + " "
+//   }
+
+//   return res
+// }
+
+// console.log(repeatString("repeat this", 4));
