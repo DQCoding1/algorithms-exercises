@@ -283,3 +283,40 @@
 // }
 
 // console.log(repeatString("repeat this", 4));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// GIVEN A STRING RETURN THE SAME STRING BACKWARDS 
+// function backwardsText(text){
+  // let res = []
+
+  // for (let i = 0; i < text.length; i++) {
+  //   res.unshift(text[i]);
+  // }
+  // res = res.join("")
+  // return res
+  // ANOTHER WAY TO SOLVE IT
+//   let res = ""
+
+//   for (let i = 0; i < text.length; i++) {
+//     res = text[i] + res
+//   }
+
+//   return res
+// }
+// console.log(backwardsText("this is a text"));
