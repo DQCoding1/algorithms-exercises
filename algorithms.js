@@ -320,3 +320,30 @@
 //   return res
 // }
 // console.log(backwardsText("this is a text"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// FIND HOW MANY TIMES A WORD IS REPEATED
+// function timesRepeated (text, wordToFind){
+//   let textToArray = text.split(" ")
+//   let res = 0
+//   textToArray.forEach((item) => {
+//     item === wordToFind && res ++
+//   })
+//   return res
+// }
+
+// console.log(timesRepeated("i like this, i like that", "like"));
