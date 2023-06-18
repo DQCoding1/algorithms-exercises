@@ -347,3 +347,49 @@
 // }
 
 // console.log(timesRepeated("i like this, i like that", "like"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// VALIDATE IF A WORD IS PALINDROME  
+// function isPalindrome(word){
+//   let res = false
+//   let reverseWord = ""
+
+//   let cleanWord = word.toLowerCase()
+//   cleanWord = cleanWord.split(" ")
+//   cleanWord = cleanWord.join("")
+
+//   for (let i = cleanWord.length-1; i >= 0; i--){
+//     reverseWord = reverseWord + cleanWord[i] 
+//   }
+
+//   if (reverseWord === cleanWord) return !res
+//   return res
+// }
+
+// console.log(isPalindrome("RADar"))
+// console.log(isPalindrome("Taco Cat"))
